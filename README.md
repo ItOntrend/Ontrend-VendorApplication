@@ -1,1 +1,0 @@
-# Ontrend-VendorApplication
